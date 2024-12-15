@@ -21,5 +21,6 @@ Las Vegas | lasvegas.majestic.games:443
 Washington | washington.majestic.games:443
 Dallas | dallas.majestic.games:443
 Boston | boston.majestic.games:443
+Houston | houston.majestic-files.com:443
 ```
 Более можно посмотреть тут https://wiki.majestic-rp.ru/post/servery-gta-5-rp
